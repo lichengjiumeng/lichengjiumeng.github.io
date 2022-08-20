@@ -1,4 +1,4 @@
-## Notes for python
+## 小严老师的葵花课堂
 
 You can use the [editor on GitHub](https://github.com/lichengjiumeng/lichengjiumeng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
